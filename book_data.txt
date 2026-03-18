@@ -1,0 +1,9 @@
+Harry Potter,300
+Lord of the Rings,500
+Atomic Habits,250
+Rich Dad Poor Dad,200
+The Alchemist,180
+Thinking, Fast and Slow,350
+Clean Code,400
+Deep Work,250
+The Pragmatic Programmer,320
