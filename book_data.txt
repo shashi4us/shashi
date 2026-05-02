@@ -2,5 +2,3 @@ Harry_Potter 300
 Lord_Rings 500
 Atomic_Habits 250
 Rich_Dad 200
-
-The_Alchemist 180
